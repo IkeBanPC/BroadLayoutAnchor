@@ -41,7 +41,7 @@
 		59FEFD892240CC170051913C = {
 			isa = PBXGroup;
 			children = (
-				59FEFD942240CC170051913C /* BroadLayoutAnchor */,
+				59FEFD942240CC170051913C /* Source */,
 				59FEFD932240CC170051913C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		59FEFD942240CC170051913C /* BroadLayoutAnchor */ = {
+		59FEFD942240CC170051913C /* Source */ = {
 			isa = PBXGroup;
 			children = (
 				59FEFD952240CC170051913C /* BroadLayoutAnchor.swift */,
 			);
-			path = BroadLayoutAnchor;
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
